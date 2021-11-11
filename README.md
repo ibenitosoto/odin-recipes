@@ -1,3 +1,3 @@
 # odin-recipes
 
-# some typical spanish dishes for my first html webpage
+some typical spanish dishes for my first html webpage
